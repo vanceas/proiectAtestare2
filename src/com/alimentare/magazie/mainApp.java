@@ -6,7 +6,7 @@ import java.sql.*;
 public class mainApp {
     static  int materialCount = 1;
     public static void main(String[] args) {
-        String dbUrl = "jdbc:postgresql:depozit";
+        String dbUrl = "jdbc:postgresql:depozitpal";
         String user = "postgres";
         String password = "cristal";
 

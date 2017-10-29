@@ -25,7 +25,7 @@ public class list extends JFrame{
     mainPanel.setLayout(new BorderLayout());
     mainPanel.setBackground(Color.CYAN);
 
-    JPanel listPanel =new JPanel();
+    JPanel listPanel = new JPanel();
     columnNames = new Vector();
     columnNames.add("nr");
     columnNames.add("Material");

@@ -78,7 +78,6 @@ public class depozit extends JFrame {
         buttonPanel.add(backButton);
         buttonPanel.add(registerButton);
 
-
         mainPanel.add(buttonPanel, BorderLayout.EAST);
         this.add(mainPanel);
         this.setVisible(true);
